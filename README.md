@@ -14,3 +14,4 @@ To run the programs, simply clone this repo and launch the [Menu exe](https://gi
 ## What Have I Learned
 As I progressed with each program I boosted my understanding of how C++ works. I learned how to create C++ classes, object arrays, loop through different values, encrypt text & securely store it, along with passing values to functions and return values. In addition, I also learned how to better structure my code so that it is reusable and easily debugable.
 
+### Completed May 21, 2021 - Created by Mihajlo M. for ICS 4U
